@@ -1,18 +1,19 @@
 //CSCI 1550: HW 1, Problem 2
 //Filename: hw1pr2.txt
 //Name: Sydney Kohl 
+
 //
-//Fold paper object in half lengthwise
-//Crease Fold
-//Unfold
-//Center Crease = CC
-//Fold top right corner to align with CC
-//Repeat left
-//Fold angled fold on right to align with CC
-//Repeat left
-//Fold in half lengthwise
-//Crease CC
-//Fold upper layer of paper (made from one half of the sheet) slightly beyond CC
-//Flip over
-//Repeat with other half
+step 1: Fold paper object in half lengthwise
+step 2: Crease Fold
+step 3: Unfold
+step 4: Center Crease = CC
+step 5: Fold top right corner to align with CC
+step 6: Repeat left
+step 7: Fold angled fold on right to align with CC
+step 8: Repeat left
+step 9: Fold in half lengthwise
+step 10: Crease CC
+step 11: Fold upper layer of paper (made from one half of the sheet) slightly beyond CC
+step 12: Flip over
+step 13: Repeat with other half
 
