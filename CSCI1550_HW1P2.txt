@@ -15,4 +15,4 @@
 //Fold upper layer of paper (made from one half of the sheet) slightly beyond CC
 //Flip over
 //Repeat with other half
-
+// Then pull apart slightly using the outter most folds.
